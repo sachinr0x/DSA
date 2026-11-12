@@ -1,8 +1,6 @@
 class Solution:
     def countDigits(self, n: int) -> int:
-        # Code here
-        count = 0
-        
+        # Code here        
         numStr = str(n)
         
         return len(numStr)
